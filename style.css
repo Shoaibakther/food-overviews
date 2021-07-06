@@ -1,0 +1,177 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+
+}
+
+h1 {
+    font-size: 50px;
+    padding-left: 35px;
+    padding-top: 40px;
+    margin-left: 40px;
+}
+
+.food-world {
+    display: flex;
+
+}
+
+.food-world-img {
+    background-image: url(img/background/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.half-width-pragraph {
+    margin-left: 70px;
+    padding-top: 5px;
+    margin-bottom: 40px;
+
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 60%;
+    padding-left: 30px;
+}
+
+.order-button {
+    text-decoration: none;
+    margin-left: 70px;
+    padding: 18px 50px;
+    background: linear-gradient(#f38ca6, #fd0404);
+    border-radius: 30px;
+    box-shadow: 1px 1px 20px #f39494;
+    color: whitesmoke;
+}
+
+.about-me {
+    display: flex;
+}
+
+.about-me-img {
+    background-image: url(img/background/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.about {
+    width: 50%;
+}
+
+.about img {
+    width: 90%;
+    padding-left: 40px;
+}
+
+#heading {
+    font-size: 35px;
+    color: darkgrey;
+    margin-left: 0px
+}
+
+.about-me-pragraph {
+    width: 60%;
+    padding: 30px;
+    margin-left 30px;
+
+}
+
+.contact-button {
+    padding: 18px 45px;
+    background-image: linear-gradient(#9dee9d, #83eaf1);
+    text-decoration: none;
+    border-radius: 30px;
+    margin-left: 30px;
+    color: black;
+    box-shadow: 1px 1px 20px #83eaf1;
+    font-weight: bold;
+
+}
+
+.recipies {
+    text-align: center;
+    color: gray;
+    line-height: 1.6;
+}
+
+.recipie {
+    display: flex;
+    margin-left: 120px;
+    margin-right: 110px;
+}
+
+.recipe-item {
+    padding: 10px 10px;
+    border-radius: 20px;
+    margin-left: 40px;
+    box-shadow: 1px 1px 15px gray;
+
+
+}
+
+.recipie img {
+    width: 305px;
+    margin-top: 8px;
+    display: block;
+
+}
+
+.recipie h4 {
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.recipie p {
+    text-align: justify;
+    font-size: 18px;
+    color: gray;
+}
+
+.fan-section {
+    margin-top: 100px;
+    display: flex;
+    margin-left: 225px;
+    padding: 10px;
+    box-shadow: 1px 1px 15px grey;
+    width: 1038px;
+    border-radius: 20px;
+}
+
+.fan-section h2 {
+    font-size: 30px;
+    margin-left: 155px;
+}
+
+.fan-section p {
+    margin-left: 155px;
+}
+
+footer {
+    margin-top: 80px;
+    background-color: rgb(12, 12, 12);
+    color: blanchedalmond;
+    text-align: center;
+
+}
+
+.end-footer h1 {
+    font-size: 30px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+.end-footer p {
+    display: block;
+    padding-left: 60px;
+    margin-block-start: 2em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
